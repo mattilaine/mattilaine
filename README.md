@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ```
     __ \                     |    |   _)  |        _)
    / _` |  __ `__ \    _` |  __|  __|  |  |   _` |  |  __ \    _ \
@@ -8,8 +6,6 @@
   \____/
 
 ```
-
-<h1 align="center">
 
 <br/>
 
@@ -26,8 +22,6 @@
 ### 🏆
 
 ![](https://github-profile-trophy.vercel.app/?username=mattilaine&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-</h1>
 
 ### 👀
 
