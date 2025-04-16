@@ -31,7 +31,7 @@
 
 ### 👀
 
-[![](https://visitcount.itsvg.in/api?id=mattilaine&icon=0&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=mattilaine&color=blue)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&random=false&width=535&lines=Espresso☕️+-%3E+Code💻+-%3E+...repeat🔁)](https://git.io/typing-svg)
 
