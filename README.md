@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ```
     __ \                     |    |   _)  |        _)
@@ -13,7 +12,7 @@
 
 <br/>
 
-[![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&repeat=false&random=false&width=435&lines=Hi! 👋 I'm @mattilaine; This is my personal GitHub profile; Great to have you in here! :)>)](https://git.io/typing-svg)
+[![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&repeat=false&random=false&width=435&lines=Hi there! 👋 I'm @mattilaine; This is my personal GitHub profile; Great to have you here!>)](https://git.io/typing-svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=mattilaine&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
 
